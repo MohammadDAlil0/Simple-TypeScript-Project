@@ -1,0 +1,19 @@
+{
+  "name": "simple-typescript-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MohammadDAlil0/Simple-TypeScript-Project.git"
+  },
+  "author": "Mohammad Saeed Dalil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MohammadDAlil0/Simple-TypeScript-Project/issues"
+  },
+  "homepage": "https://github.com/MohammadDAlil0/Simple-TypeScript-Project#readme"
+}
